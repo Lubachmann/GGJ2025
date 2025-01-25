@@ -16,9 +16,14 @@ public:
 	// Sets default values for this actor's properties
 	ABubble();
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    float Air = 10;
+    float Air = 1;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	TObjectPtr<UStaticMeshComponent> TheSphere = nullptr;
+	UFUNCTION(BlueprintCallable)
+	void AddAir(float AirToAdd);
+	UFUNCTION(BlueprintCallable)
+	void SubAir(float AirToSubtract);
+
 
 protected:
 	// Called when the game starts or when spawned

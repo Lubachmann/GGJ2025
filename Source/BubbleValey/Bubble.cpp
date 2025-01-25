@@ -12,6 +12,20 @@ ABubble::ABubble()
 
 }
 
+void ABubble::AddAir(float AirToAdd)
+{
+	Air += AirToAdd;
+	// scale the sphere
+	TheSphere->SetWorldScale3D(FVector(Air, Air, Air));
+}
+
+void ABubble::SubAir(float AirToSubtract)
+{
+	Air -= AirToSubtract;
+	// scale the sphere
+	TheSphere->SetWorldScale3D(FVector(Air, Air, Air));
+}
+
 // Called when the game starts or when spawned
 void ABubble::BeginPlay()
 {
@@ -23,6 +37,8 @@ void ABubble::BeginPlay()
 void ABubble::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	// test adding air
+	// AddAir(0.01);
 
 }
 
