@@ -16,7 +16,7 @@ public:
 	// Sets default values for this actor's properties
 	ABubble();
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    float Air = 1;
+    float Air = 5;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	TObjectPtr<UStaticMeshComponent> TheSphere = nullptr;
 	UFUNCTION(BlueprintCallable)

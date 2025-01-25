@@ -15,15 +15,17 @@ ABubble::ABubble()
 void ABubble::AddAir(float AirToAdd)
 {
 	Air += AirToAdd;
+	int Size = 25 + Air;
 	// scale the sphere
-	TheSphere->SetWorldScale3D(FVector(Air, Air, Air));
+	TheSphere->SetWorldScale3D(FVector(Size, Size, Size));
 }
 
 void ABubble::SubAir(float AirToSubtract)
 {
 	Air -= AirToSubtract;
+	int Size = 25 + Air;
 	// scale the sphere
-	TheSphere->SetWorldScale3D(FVector(Air, Air, Air));
+	TheSphere->SetWorldScale3D(FVector(Size, Size, Size));
 }
 
 // Called when the game starts or when spawned
