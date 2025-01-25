@@ -22,6 +22,8 @@ Plugins/*/Intermediate/*
 !/Content/**/*.uasset
 !/Content/**/*.umap
 
+!/Assets/**
+
 # Allow any files from /RawContent dir.
 # Any file in /RawContent dir will be managed by git lfs.
 !/RawContent/**/*

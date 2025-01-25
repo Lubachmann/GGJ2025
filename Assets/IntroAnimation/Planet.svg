@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Planet.svg"
+   inkscape:export-filename="Planet.png"
+   inkscape:export-xdpi="145.14285"
+   inkscape:export-ydpi="145.14285"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75811588"
+     inkscape:cx="23.743072"
+     inkscape:cy="633.80812"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 150.08076,186.28992 a 84.275749,84.275749 0 0 1 -7.3179,0.52348 84.275749,84.275749 0 0 1 -84.275991,-84.27599 84.275749,84.275749 0 0 1 8.464083,-36.562626 73.464752,73.464752 0 0 0 -28.067021,57.541706 73.464752,73.464752 0 0 0 73.464249,73.46477 73.464752,73.464752 0 0 0 37.73258,-10.69134 z"
+       style="fill:#9d712c;stroke-width:1.165"
+       id="path4" />
+    <path
+       d="m 150.08076,186.28992 a 73.464752,73.464752 0 0 0 35.73219,-62.77343 73.464752,73.464752 0 0 0 -73.46477,-73.464765 73.464752,73.464752 0 0 0 -45.397228,15.923059 84.275749,84.275749 0 0 0 -8.464083,36.562626 84.275749,84.275749 0 0 0 84.275991,84.27599 84.275749,84.275749 0 0 0 7.3179,-0.52348 z"
+       style="fill:#cb9645;stroke-width:1.47079"
+       id="path5" />
+    <circle
+       style="fill:#e1c294;fill-opacity:1;stroke-width:1.165"
+       id="path6"
+       cx="151.20476"
+       cy="95.539078"
+       r="17.188309" />
+  </g>
+</svg>
