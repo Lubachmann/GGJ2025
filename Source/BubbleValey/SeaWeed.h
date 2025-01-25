@@ -14,6 +14,7 @@ class BUBBLEVALEY_API ASeaWeed : public AActor
 public:	
 	// Sets default values for this actor's properties
 	ASeaWeed();
+	
 
 protected:
 	// Called when the game starts or when spawned
