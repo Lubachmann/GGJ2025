@@ -15,7 +15,7 @@ ABubble::ABubble()
 void ABubble::AddAir(float AirToAdd)
 {
 	Air += AirToAdd;
-	int Size = 25 + Air;
+	float Size = 6 + (Air*0.25);
 	// scale the sphere
 	TheSphere->SetWorldScale3D(FVector(Size, Size, Size));
 }
@@ -23,7 +23,7 @@ void ABubble::AddAir(float AirToAdd)
 void ABubble::SubAir(float AirToSubtract)
 {
 	Air -= AirToSubtract;
-	int Size = 25 + Air;
+	float Size = 6 + (Air*0.25);
 	// scale the sphere
 	TheSphere->SetWorldScale3D(FVector(Size, Size, Size));
 }
