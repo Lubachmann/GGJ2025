@@ -1,4 +1,4 @@
-sea// Fill out your copyright notice in the Description page of Project Settings.
+// Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
 
@@ -15,7 +15,6 @@ public:
 	// Sets default values for this actor's properties
 	ASeaWeed();
 	
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -23,5 +22,12 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+
+		UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Regrow")
+		float RegrowTime = 30;
+		UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Regrow")
+		bool HasSeaWeed = true;	
+
+
 
 };
