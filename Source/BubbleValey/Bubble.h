@@ -23,6 +23,9 @@ public:
 	void AddAir(float AirToAdd);
 	UFUNCTION(BlueprintCallable)
 	void SubAir(float AirToSubtract);
+	//a funtion to be implemented in blueprint
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
+	void OnExplode();
 
 
 protected:
