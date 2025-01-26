@@ -16,6 +16,9 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.xcf filter=lfs diff=lfs merge=lfs -text
 
+*.zip filter=lfs diff=lfs merge=lfs -text
+
 # Anything in `/RawContent` dir.
 /RawContent/**/* filter=lfs diff=lfs merge=lfs -text
-/Content/**/* filter=lfs diff=lfs merge=lfs -textb 
+/Content/**/* filter=lfs diff=lfs merge=lfs -textb
+/Build/**/* filter=lfs diff=lfs merge=lfs -textb
