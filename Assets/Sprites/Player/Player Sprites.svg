@@ -8,6 +8,9 @@
    version="1.1"
    sodipodi:docname="Player Sprites.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="Player Sprites.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.7486457"
-     inkscape:cx="2364.2692"
-     inkscape:cy="1174.788"
+     inkscape:cx="1341.0883"
+     inkscape:cy="396.04849"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -3150,8 +3153,8 @@
        id="g346"
        transform="matrix(-1,0,0,1,1798.3962,-32.036649)"
        inkscape:export-filename="side_view_sheet.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          class="cls-6"
          x="1334.6188"
