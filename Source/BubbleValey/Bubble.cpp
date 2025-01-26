@@ -26,6 +26,11 @@ void ABubble::SubAir(float AirToSubtract)
 	float Size = 6 + (Air*0.25);
 	// scale the sphere
 	TheSphere->SetWorldScale3D(FVector(Size, Size, Size));
+	// if air is less than 0, call the explode function
+	if (Air < 0)
+	{
+		OnExplode();
+	}
 }
 
 // Called when the game starts or when spawned
