@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="294.72662mm"
+   height="207.89648mm"
+   viewBox="0 0 294.72662 207.89648"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="CreditScene.svg"
+   inkscape:export-filename="CreditScene..png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="517.60216"
+     inkscape:cy="473.05444"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"><inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="-1.1366903"
+       originy="-1.0517534"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" /><inkscape:page
+       x="0"
+       y="0"
+       width="294.72662"
+       height="207.89648"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1"><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2-2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,30.448046,0,1 @ F,0,0,1,0,29.980698,0,1 @ F,0,0,1,0,34.065317,0,1 @ F,0,0,1,0,29.933926,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" /><rect
+       x="106.06602"
+       y="159.09903"
+       width="1700.0107"
+       height="1256.2582"
+       id="rect4-4-4-2-8-7-7" /></defs><g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline"
+     transform="translate(-1.1366902,-1.0517534)"><path
+       style="fill:#8f2e92;fill-opacity:1;stroke:#6e3293;stroke-width:5.80443;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-5"
+       width="296.99692"
+       height="210.00443"
+       x="0.0016890843"
+       y="0.0015907581"
+       ry="0"
+       sodipodi:type="rect"
+       d="m 30.449735,0.00159076 236.568175,0 A 29.980698,29.980698 45 0 1 296.99861,29.982289 V 175.9407 a 34.065317,34.065317 135 0 1 -34.06532,34.06532 H 29.935615 A 29.933926,29.933926 45 0 1 0.00168908,180.07209 l 0,-149.622453 A 30.448046,30.448046 135 0 1 30.449735,0.00159076 Z"
+       transform="matrix(0.97333325,0,0,0.96333625,3.9598684,3.8460299)"
+       inkscape:path-effect="#path-effect2-2"
+       inkscape:label="FrontRect" /><text
+       xml:space="preserve"
+       transform="matrix(0.14184674,0,0,0.14184674,13.995491,-7.5055124)"
+       id="text4-1-1-9-0-8-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:79.5851px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-4-4-2-8-7-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.88693;stroke-dasharray:none;stroke-opacity:0.576271;paint-order:fill markers stroke"
+       x="34.010742"
+       y="0"
+       inkscape:label="Title"><tspan
+         x="646.24122"
+         y="228.24865"
+         id="tspan2">BUBBLE BOUND
+</tspan><tspan
+         x="956.07129"
+         y="327.73004"
+         id="tspan3">
+</tspan><tspan
+         x="363.76852"
+         y="427.21142"
+         id="tspan4">Coding: c2727c, Velvet Thunder
+</tspan><tspan
+         x="252.64861"
+         y="526.6928"
+         id="tspan5">Art and design: vanny vantom, DariuZ, </tspan><tspan
+         x="741.02054"
+         y="626.17419"
+         id="tspan6">GreenLlama
+</tspan><tspan
+         x="956.07129"
+         y="725.65557"
+         id="tspan7">
+</tspan><tspan
+         x="434.55185"
+         y="825.13696"
+         id="tspan8">designed with Unreal Engine
+</tspan><tspan
+         x="432.1814"
+         y="924.61834"
+         id="tspan9">font type by Sorkin Type Co
+</tspan><tspan
+         x="956.07129"
+         y="1024.0997"
+         id="tspan10">
+</tspan><tspan
+         x="628.79312"
+         y="1123.581"
+         id="tspan12">Global Game Jam 
+</tspan><tspan
+         x="858.92151"
+         y="1223.0624"
+         id="tspan13">2025
+</tspan><tspan
+         x="739.73816"
+         y="1322.5437"
+         id="tspan14">ETH Zurich</tspan></text></g></svg>
