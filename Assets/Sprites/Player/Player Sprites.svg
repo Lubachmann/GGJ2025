@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.37432285"
-     inkscape:cx="486.2113"
-     inkscape:cy="693.25183"
+     inkscape:zoom="0.7486457"
+     inkscape:cx="2364.2692"
+     inkscape:cy="1174.788"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
@@ -2141,17 +2141,60 @@
     </g>
     <g
        id="g342"
-       transform="translate(196.58689,474.52058)">
+       transform="translate(196.25295,473.18483)">
       <rect
          class="cls-4"
-         x="999.14429"
-         y="-2416.0732"
+         x="-903.24994"
+         y="-2412.2952"
          width="7.7507"
          height="7.6560998"
          rx="1.4576"
          ry="1.4576"
-         transform="rotate(90)"
+         transform="matrix(0,-1,-1,0,0,0)"
          id="rect175" />
+      <rect
+         class="cls-1"
+         x="847.58197"
+         y="2392.8928"
+         width="76.426506"
+         height="25.0352"
+         rx="6.153039"
+         ry="11.1338"
+         transform="matrix(0,1,1,0,0,0)"
+         id="rect223"
+         style="stroke-width:0.743401" />
+      <rect
+         class="cls-3"
+         x="873.31061"
+         y="2396.8672"
+         width="39.48378"
+         height="17.0865"
+         rx="4.3524489"
+         ry="5.5497999"
+         transform="matrix(0,1,1,0,0,0)"
+         id="rect225"
+         style="stroke-width:0.885581" />
+      <rect
+         class="cls-3"
+         x="935.31781"
+         y="2393.0984"
+         width="35.432701"
+         height="24.6245"
+         rx="5.5893002"
+         ry="5.5893002"
+         transform="matrix(0,1,1,0,0,0)"
+         id="rect226" />
+      <rect
+         class="cls-8"
+         x="888.77502"
+         y="2396.8674"
+         width="67.847969"
+         height="17.0865"
+         rx="5.8263569"
+         ry="7.1241002"
+         transform="matrix(0,1,1,0,0,0)"
+         id="rect227"
+         style="stroke-width:0.904344" />
       <rect
          class="cls-6"
          x="2244.8223"
@@ -2279,56 +2322,6 @@
          ry="6.7933002"
          transform="rotate(-45)"
          id="rect222" />
-      <rect
-         class="cls-1"
-         x="-1116.678"
-         y="2396.6709"
-         width="138.29221"
-         height="25.0352"
-         rx="11.1338"
-         ry="11.1338"
-         transform="rotate(-90)"
-         id="rect223" />
-      <rect
-         class="cls-4"
-         x="-1111.7115"
-         y="2410.2222"
-         width="21.1457"
-         height="7.6560998"
-         rx="2.4075999"
-         ry="2.4075999"
-         transform="rotate(-90)"
-         id="rect224" />
-      <rect
-         class="cls-3"
-         x="-1039.9456"
-         y="2400.6453"
-         width="50.345699"
-         height="17.0865"
-         rx="5.5497999"
-         ry="5.5497999"
-         transform="rotate(-90)"
-         id="rect225" />
-      <rect
-         class="cls-3"
-         x="-967.07642"
-         y="2396.8765"
-         width="35.432701"
-         height="24.6245"
-         rx="5.5893002"
-         ry="5.5893002"
-         transform="rotate(-90)"
-         id="rect226" />
-      <rect
-         class="cls-8"
-         x="-1028.7314"
-         y="2400.6455"
-         width="82.960197"
-         height="17.0865"
-         rx="7.1241002"
-         ry="7.1241002"
-         transform="rotate(-90)"
-         id="rect227" />
     </g>
     <g
        id="g340"
@@ -3975,6 +3968,17 @@
            id="rect307" />
       </g>
     </g>
+    <rect
+       class="cls-4"
+       x="1325.916"
+       y="-2613.0806"
+       width="7.8889337"
+       height="4.3502989"
+       rx="0.89821553"
+       ry="1.3680307"
+       transform="rotate(90)"
+       id="rect171-1"
+       style="fill:#ffffff;stroke-width:0.46042" />
     <g
        id="g1"
        transform="translate(1613.7655,26.940605)">
